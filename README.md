@@ -20,7 +20,7 @@ An interactive Sudoku game built in Python using Pygame, featuring puzzle genera
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/sudoku-game.git
+   git clone https://github.com/PadhiyarHarsh01/Python-Sudoku.git
    cd sudoku-game
    ```
 
@@ -72,9 +72,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - Add sound effects and background music
 - Develop a mobile version of the game
 
-## Contact
-
-If you have any questions, feel free to reach out to [Your Name] at [your.email@example.com].
 
 Happy Sudoku solving!
 
